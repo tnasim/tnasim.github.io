@@ -202,6 +202,21 @@ nav .brand-logo img {
   width: 140px;
 }
 
+.social-media-block {
+  clear: both;
+  height: 40px;
+  margin: 0 auto;
+  width: 160px;
+  text-align: center;
+}
+
+.social-media-icon {
+  border: 0px solid #fff;
+  height: 32px;
+  margin: 0 auto;
+  width: 32px;  
+}
+
 
 .about-inner-right{
   min-height: 250px;
