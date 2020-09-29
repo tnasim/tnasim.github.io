@@ -43,4 +43,10 @@ jQuery(function($){
 		    $("#odol-bodol-output").text(result);
 		}
 	});
+
+	$("#odol-bodol-input").on('keyup', function (e) {
+	    if (e.key === 'Enter' || e.keyCode === 13) {
+	        $("#odol-bodol-btn").click();
+	    }
+	});
 });
