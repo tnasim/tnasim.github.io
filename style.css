@@ -173,7 +173,7 @@ nav .brand-logo img {
   background-color: #fafafa;
   float: left;
   display: inline;
-  padding: 80px 0px;
+  padding: 60px 0px 10px 0px;
   width: 100%;
 }
 
@@ -267,8 +267,8 @@ nav .brand-logo img {
 
 
 .resume-btn{
-  margin-top: 160px;
-  margin-left: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 
 
@@ -292,7 +292,7 @@ nav .brand-logo img {
 #skill{
   background-color: #fff;
   display: inline;
-  padding: 60px 0;
+  padding: 10px 0;
   float: left;
   width: 100%;
 }
